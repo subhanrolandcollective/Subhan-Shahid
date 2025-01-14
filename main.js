@@ -7,6 +7,8 @@ import "swiper/css"; // Import Swiper styles
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 
+import "./swiper2.js"
+
 const button = document.querySelector("#Home");
 
 button.addEventListener("click", () => {

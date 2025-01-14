@@ -166,5 +166,6 @@ body {
   .profile_pic {
     @apply absolute  rounded-[4rem] border-2 border-opacity-60 rotate-3 hover:rotate-0 hover:border-opacity-100 hover:border-4 transition-all duration-300 ease-in-out border-yellow-500 h-full w-full object-cover object-center;
   }
+
   
 }
